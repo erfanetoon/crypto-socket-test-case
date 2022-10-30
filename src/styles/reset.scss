@@ -1,0 +1,46 @@
+html {
+    font-size: 14px;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5 !important;
+    font-family: IRANSans, Arial, sans-serif !important;
+    scroll-behavior: smooth;
+    direction: rtl;
+    text-align: right;
+}
+
+body {
+    overflow-x: hidden;
+    font-size: 1rem !important;
+}
+
+*,
+select,
+option {
+    font-family: IRANSans, Arial, sans-serif !important;
+}
+
+select,
+input,
+textarea {
+    outline: none !important;
+}
+
+button {
+    outline: none !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}

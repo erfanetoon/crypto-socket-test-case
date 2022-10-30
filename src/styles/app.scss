@@ -1,0 +1,21 @@
+@tailwind components;
+@tailwind utilities;
+
+@import "./reset.scss";
+
+@layer components {
+    // Layouts
+    @import "./layouts/site";
+
+    .ltr {
+        direction: ltr;
+    }
+
+    .font-numeric {
+        font-family: IRANSansFaNum, IRANSans, Arial, sans-serif !important;
+    }
+
+    .font-text {
+        font-family: IRANSans, Arial, sans-serif !important;
+    }
+}
