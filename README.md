@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview
 
-![Preview picture](https://github.com/erfanetoon/mini-exchange/preview.png)
+![Preview picture](https://github.com/erfanetoon/mini-exchane/blob/main/preview.png?raw=true)
 
 ## Available Scripts
 
